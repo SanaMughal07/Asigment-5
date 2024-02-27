@@ -1,0 +1,21 @@
+body{background-color:pink;
+font-size: larger;
+font-style: oblique;
+font-weight: bolder;
+word-spacing:  5px;  color: darkred;
+text-transform: capitalize ;
+text-indent: 2px;}
+h1{color: indianred;font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-decoration: underline black;  
+text-shadow: 2px 2px 5px rgb(138, 9, 84); ;}
+#group{background-color: brown;}
+h2{color: chocolate;}
+span{background-color:red;}
+.listOne{color:green;}
+.listTwo{border: 2px solid crimson;}
+.listThree{
+    border: 2px dotted rgb(32, 7, 92); ;
+}
+.listFour{
+    background-color: blueviolet;
+}
